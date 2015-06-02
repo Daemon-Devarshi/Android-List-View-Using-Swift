@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DebugPaneActiveTab</key>
+	<real>0.0</real>
+	<key>FolderExpanded_org.me.swiftsimplelistview_file:///Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/org.me.swiftsimplelistview.elements_file:///Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/</key>
+	<true/>
+	<key>FolderExpanded_org.me.swiftsimplelistview_file:///Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/org.me.swiftsimplelistview.elements_file:///Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/res/</key>
+	<true/>
+	<key>FolderExpanded_org.me.swiftsimplelistview_file:///Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/org.me.swiftsimplelistview.elements_file:///Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/res/layout/</key>
+	<true/>
+	<key>LastBuildStatusLabel</key>
+	<string>Last build was successful</string>
+	<key>NavigationPaneActiveTab</key>
+	<real>0.0</real>
+	<key>Properties</key>
+	<dict/>
+	<key>SelectedNode</key>
+	<string>file:///Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/org.me.swiftsimplelistview.elements_file:///Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/res/layout/main.layout-xml</string>
+	<key>ViewMetaData</key>
+	<dict>
+		<key>file:///Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/org.me.swiftsimplelistview.elements_file:///Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/MainActivity.swift</key>
+		<dict>
+			<key>CursorX</key>
+			<integer>1</integer>
+			<key>CursorY</key>
+			<integer>30</integer>
+			<key>ScrollX</key>
+			<real>0.0</real>
+			<key>ScrollY</key>
+			<real>0.0</real>
+			<key>SelectionCursorUndecided</key>
+			<false/>
+			<key>SelectionEndColumn</key>
+			<integer>-1</integer>
+			<key>SelectionEndLine</key>
+			<integer>-1</integer>
+			<key>SelectionIsLinear</key>
+			<true/>
+			<key>SelectionStartColumn</key>
+			<integer>-1</integer>
+			<key>SelectionStartLine</key>
+			<integer>-1</integer>
+		</dict>
+		<key>file:///Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/org.me.swiftsimplelistview.elements_file:///Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/res/layout/main.layout-xml</key>
+		<dict>
+			<key>CursorX</key>
+			<integer>0</integer>
+			<key>CursorY</key>
+			<integer>13</integer>
+			<key>ScrollX</key>
+			<real>0.0</real>
+			<key>ScrollY</key>
+			<real>0.0</real>
+			<key>SelectionCursorUndecided</key>
+			<true/>
+			<key>SelectionEndColumn</key>
+			<integer>-1</integer>
+			<key>SelectionEndLine</key>
+			<integer>-1</integer>
+			<key>SelectionIsLinear</key>
+			<true/>
+			<key>SelectionStartColumn</key>
+			<integer>-1</integer>
+			<key>SelectionStartLine</key>
+			<integer>-1</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

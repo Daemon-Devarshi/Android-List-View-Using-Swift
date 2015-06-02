@@ -1,0 +1,7 @@
+
+<Project xmlns='http://schemas.microsoft.com/developer/msbuild/2003'>
+    <PropertyGroup>
+        <CrossBoxDevice>XT1033</CrossBoxDevice>
+        <CrossBoxDeviceID>TA89902UK1</CrossBoxDeviceID>
+    </PropertyGroup>
+</Project>

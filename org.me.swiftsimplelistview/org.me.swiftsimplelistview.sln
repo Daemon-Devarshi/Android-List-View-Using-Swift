@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# RemObjects Fire
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "org.me.swiftsimplelistview", "org.me.swiftsimplelistview.elements", "{B1049D16-582A-46A1-81E9-F51AD8C0F2D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1049D16-582A-46A1-81E9-F51AD8C0F2D5}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{B1049D16-582A-46A1-81E9-F51AD8C0F2D5}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{B1049D16-582A-46A1-81E9-F51AD8C0F2D5}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{B1049D16-582A-46A1-81E9-F51AD8C0F2D5}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

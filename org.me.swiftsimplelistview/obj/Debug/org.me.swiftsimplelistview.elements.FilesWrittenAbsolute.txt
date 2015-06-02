@@ -1,0 +1,5 @@
+/Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.pas
+/Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/bin/Debug/org.me.swiftsimplelistview.jar
+/Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/obj/Debug/org.me.swiftsimplelistview.jar
+/Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/bin/Debug/swift.jar
+/Users/devarshi/Desktop/Silver-Fire/org.me.swiftsimplelistview/bin/Debug/com.remobjects.elements.rtl.jar
